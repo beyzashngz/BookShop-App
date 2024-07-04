@@ -10,4 +10,5 @@ There are books filtered by different categories.
  Books can be added and removed from the cart. The total price of all products can be accessed from the cart.
  </br>
 
+
  ![](bookshop.gif)
